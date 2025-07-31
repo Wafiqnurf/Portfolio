@@ -11,7 +11,7 @@ export default function About() {
           {/* Foto persegi panjang */}
           <div className="relative flex-shrink-0 w-40 md:w-44 h-56 md:h-64 rounded-xl overflow-hidden shadow-lg">
             <img
-              src="/public/images/wafiq.jpg"
+              src="/images/wafiq.jpg"
               alt="Wafiq"
               className="w-full h-full object-cover"
             />
